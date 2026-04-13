@@ -38,7 +38,7 @@ This dashboard provides insights into employee performance and organizational he
 ---
 
 ## Dashboard Preview
-*(Add your dashboard screenshot here)*
+![Dashboard Preview](HRDASHBOARD.png
 
 ---
 
